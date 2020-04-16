@@ -1,0 +1,11 @@
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.exe
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.deps.json
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.json
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.runtimeconfig.dev.json
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.dll
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\bin\Debug\netcoreapp3.1\Prime Number.pdb
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.csprojAssemblyReference.cache
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfoInputs.cache
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.AssemblyInfo.cs
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.dll
+E:\IDE - Visual Studio Code\_ASSIGNMENT\Prime Number\obj\Debug\netcoreapp3.1\Prime Number.pdb
